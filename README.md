@@ -1,3 +1,4 @@
+# Moved to https://codeberg.org/ibm/gh_runner_uptime
 # GitHub Self-Hosted Runner Status Monitor
 Monitor Uptime Status of GitHub Self-Hosted Runner.
 This project is designed to be run inside of a Docker container but does support native execution.
